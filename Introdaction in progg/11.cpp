@@ -1,6 +1,6 @@
-#include<iostream>
-#include<math.h>
-using namespace std;
+//#include<iostream>
+//#include<math.h>
+//using namespace std;
 //1//
 //int main() {
 //	int a, b;
